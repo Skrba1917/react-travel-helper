@@ -7,3 +7,5 @@ Some of the options are: checking out restaurants, hotels, attractions around yo
 Website is deployed on Netlify.
 
 Deployment link: https://traveling-helper.netlify.app/
+
+***No billing account on google cloud is enabled so map is showing in deployment-mode only***
