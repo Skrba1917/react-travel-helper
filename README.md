@@ -8,4 +8,4 @@ Website is deployed on Netlify.
 
 Deployment link: https://traveling-helper.netlify.app/
 
-***No billing account on google cloud is enabled so map is showing in deployment-mode only***
+***No billing account on google cloud is enabled so map is showing in deployment-mode only, just press OK on the pop-up about map not working correctly and it will still work***
